@@ -1,4 +1,4 @@
-# 
+# Official FreshBooks scripts for Mac OS | VIP FreshBooks scripts for PC Windows. Featuring pdf conversion and data export — optimized for maximum performance on every platform.
 
 
 
